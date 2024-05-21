@@ -63,12 +63,42 @@ IoT 개발자 미니 프로젝트
     - RPi 기본 세팅
         - [x] 최신 업그레이드
         - [x] 한글화
-        - 키보드 변경
+        - [x] 키보드 변경
         - [x] 화면사이즈 변경(RealVNC)
-        - Pi Apps 앱설치 도우미 앱
-        - Github Desktop, VS Code
-        - 네트워크 확인
+        - [x] Pi Apps 앱설치 도우미 앱
+        - [x] Github Desktop, VS Code
+        - [x] 네트워크 확인
         - RealVNC Server 자동실행 설정
 
 - 스마트홈 연동 클래스 미니프로젝트
     - RPi 세팅 진행
+
+
+### DAY 04
+
+- 라즈베리파이 IoT장비 설치
+    - [x] 라즈베리파이 카메라 연결
+        - sudo libcamera-hello -t 0 : 카메라 테스트!
+    - [x] GPIO HAT
+    - [x] 브레드보드와 연결
+    - DHT11 센서 연결
+    - [x] RGB LED 모듈 연결
+        - V : 5V 연결
+        - R : GPI04 연결
+        - B : GPI05 연결  
+        - G : GPI06 연결
+    - 서브모터 연결
+
+
+### DAY 05
+
+- 라즈베리파이 IoT장비 설치
+    - [x] DHT11 센서
+        - GND : GND 센서 8개중 아무곳이나 연결
+        - VCC : 5V 연결
+        - S :  GPIO18 연결
+
+- 미니 프로젝트
+    - 팀별 구매목록 작성
+    - 프로젝트 결정사항 공유
+    - 발표자료 준비
