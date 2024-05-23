@@ -102,3 +102,26 @@ IoT 개발자 미니 프로젝트
     - 팀별 구매목록 작성
     - 프로젝트 결정사항 공유
     - 발표자료 준비
+
+
+### DAY 06
+
+- [x] 네트워크 대공사!
+    - 개인공유기 연결, PC, 라즈베리파이 네트워크 재연결
+
+- 스마트홈 연동 클래스 미니프로젝트
+    - 온습도 센서, RGB LED
+    - RPi <-> Windows 통신(MQTT)
+    - WPF 모니터링 앱
+
+- IoT 기기간 통신방법
+    - Modbus : 시리얼통신으로 데이터 전송 (구식!)
+    - OPC UA : Modbus 통신 방법의 불편한 점을 개선한 방식(복잡함!)
+    - MQTT : 가장 편리! AWS IoT, Azure IoT 클라우드 산업계 표준 방식으로 사용
+
+- MQTT 통신
+    - Mosquitto Broker 설치
+        - mosquitto.conf 편집 : listener 1883 0.0.0.0, allow_anonymous true
+        - 방화벽 인바운드 열기
+    - RPi : paho-mqtt 패키지 설치, 송신(publisher)
+    - Windows : MQTT.NET Nuget 패키지 설치, 수신(subcriber)
