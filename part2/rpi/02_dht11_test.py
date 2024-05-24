@@ -1,4 +1,5 @@
 # 02_dht11_test.py
+
 import adafruit_dht
 import time
 import RPi.GPIO as GPIO

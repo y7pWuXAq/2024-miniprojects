@@ -1,4 +1,5 @@
 # 03_mqtt_simple.py
+
 import paho.mqtt.client as mqtt
 import time
 

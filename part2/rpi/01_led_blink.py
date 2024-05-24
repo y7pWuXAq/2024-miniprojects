@@ -1,5 +1,6 @@
 # 01_led_blink.py
-# Red led\
+# Red led
+
 import RPi.GPIO as GPIO
 import time
 

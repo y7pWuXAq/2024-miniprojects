@@ -13,7 +13,6 @@ import json
 red_pin = 4
 green_pin = 6
 dht_pin = 18
-
 dev_id = 'PKNU79'
 loop_num = 0
 
