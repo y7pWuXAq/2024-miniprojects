@@ -65,7 +65,7 @@ while True :
 
     except RuntimeError as ex :
         print(ex.args[0])
-        
+
     except KeyboardInterrupt :
         break
 
