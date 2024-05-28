@@ -151,16 +151,16 @@ IoT 개발자 미니 프로젝트
 
         - DB 모니터링
 
-    ![DB 모니터링 화면](https://raw.githubusercontent.com/y7pWuXAq/2024-miniprojects/main/images/mp002.png)
+        ![DB 모니터링 화면](https://raw.githubusercontent.com/y7pWuXAq/2024-miniprojects/main/images/mp002.png)
 
 
         - 실시간 모니터링
 
-    ![실시간 모니터링 화면](https://raw.githubusercontent.com/y7pWuXAq/2024-miniprojects/main/images/mp003.png)
+        ![실시간 모니터링 화면](https://raw.githubusercontent.com/y7pWuXAq/2024-miniprojects/main/images/mp003.png)
 
         - 시각화 모니터링
-        
-    ![시각화 모니터링 화면](https://raw.githubusercontent.com/y7pWuXAq/2024-miniprojects/main/images/mp004.png)
-    
+            
+        ![시각화 모니터링 화면](https://raw.githubusercontent.com/y7pWuXAq/2024-miniprojects/main/images/mp004.png)
+
 
 - 조별 미니프로젝트 발표
